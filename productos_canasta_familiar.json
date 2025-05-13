@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "nombre": "Arroz",
+    "presio": 14987
+  },
+  {
+    "id": 2,
+    "nombre": "Frijoles",
+    "presio": 14097
+  },
+  {
+    "id": 3,
+    "nombre": "Lentejas",
+    "presio": 7127
+  },
+  {
+    "id": 4,
+    "nombre": "Garbanzo",
+    "presio": 3069
+  },
+  {
+    "id": 5,
+    "nombre": "Maíz",
+    "presio": 10956
+  },
+  {
+    "id": 6,
+    "nombre": "Papa",
+    "presio": 7496
+  },
+  {
+    "id": 7,
+    "nombre": "Yuca",
+    "presio": 5157
+  },
+  {
+    "id": 8,
+    "nombre": "Plátano",
+    "presio": 12902
+  },
+  {
+    "id": 9,
+    "nombre": "Zanahoria",
+    "presio": 10460
+  },
+  {
+    "id": 10,
+    "nombre": "Cebolla",
+    "presio": 7899
+  },
+  {
+    "id": 11,
+    "nombre": "Tomate",
+    "presio": 19235
+  },
+  {
+    "id": 12,
+    "nombre": "Ajo",
+    "presio": 18040
+  },
+  {
+    "id": 13,
+    "nombre": "Pimentón",
+    "presio": 10324
+  },
+  {
+    "id": 14,
+    "nombre": "Lechuga",
+    "presio": 10412
+  },
+  {
+    "id": 15,
+    "nombre": "Espinaca",
+    "presio": 11210
+  },
+  {
+    "id": 16,
+    "nombre": "Repollo",
+    "presio": 14450
+  },
+  {
+    "id": 17,
+    "nombre": "Pepino",
+    "presio": 6927
+  },
+  {
+    "id": 18,
+    "nombre": "Remolacha",
+    "presio": 7695
+  },
+  {
+    "id": 19,
+    "nombre": "Apio",
+    "presio": 5210
+  },
+  {
+    "id": 20,
+    "nombre": "Calabacín",
+    "presio": 16659
+  },
+  {
+    "id": 21,
+    "nombre": "Berenjena",
+    "presio": 2896
+  },
+  {
+    "id": 22,
+    "nombre": "Manzana",
+    "presio": 18300
+  },
+  {
+    "id": 23,
+    "nombre": "Banano",
+    "presio": 12611
+  },
+  {
+    "id": 24,
+    "nombre": "Naranja",
+    "presio": 6028
+  },
+  {
+    "id": 25,
+    "nombre": "Mandarina",
+    "presio": 7210
+  },
+  {
+    "id": 26,
+    "nombre": "Limón",
+    "presio": 12323
+  },
+  {
+    "id": 27,
+    "nombre": "Piña",
+    "presio": 15477
+  },
+  {
+    "id": 28,
+    "nombre": "Mango",
+    "presio": 13601
+  },
+  {
+    "id": 29,
+    "nombre": "Papaya",
+    "presio": 2763
+  },
+  {
+    "id": 30,
+    "nombre": "Uva",
+    "presio": 4593
+  },
+  {
+    "id": 31,
+    "nombre": "Sandía",
+    "presio": 4823
+  },
+  {
+    "id": 32,
+    "nombre": "Melón",
+    "presio": 9268
+  },
+  {
+    "id": 33,
+    "nombre": "Fresa",
+    "presio": 17468
+  },
+  {
+    "id": 34,
+    "nombre": "Guayaba",
+    "presio": 3007
+  },
+  {
+    "id": 35,
+    "nombre": "Huevo",
+    "presio": 16363
+  },
+  {
+    "id": 36,
+    "nombre": "Pollo",
+    "presio": 10815
+  },
+  {
+    "id": 37,
+    "nombre": "Carne de res",
+    "presio": 5534
+  },
+  {
+    "id": 38,
+    "nombre": "Carne de cerdo",
+    "presio": 10921
+  },
+  {
+    "id": 39,
+    "nombre": "Pescado",
+    "presio": 14141
+  },
+  {
+    "id": 40,
+    "nombre": "Salchicha",
+    "presio": 11656
+  },
+  {
+    "id": 41,
+    "nombre": "Leche",
+    "presio": 18500
+  },
+  {
+    "id": 42,
+    "nombre": "Yogur",
+    "presio": 18824
+  },
+  {
+    "id": 43,
+    "nombre": "Queso",
+    "presio": 11993
+  },
+  {
+    "id": 44,
+    "nombre": "Pan",
+    "presio": 5064
+  },
+  {
+    "id": 45,
+    "nombre": "Arepa",
+    "presio": 4649
+  },
+  {
+    "id": 46,
+    "nombre": "Harina de maíz",
+    "presio": 7510
+  },
+  {
+    "id": 47,
+    "nombre": "Harina de trigo",
+    "presio": 4908
+  },
+  {
+    "id": 48,
+    "nombre": "Aceite",
+    "presio": 15277
+  },
+  {
+    "id": 49,
+    "nombre": "Azúcar",
+    "presio": 14208
+  },
+  {
+    "id": 50,
+    "nombre": "Sal",
+    "presio": 9885
+  },
+  {
+    "id": 51,
+    "nombre": "Café",
+    "presio": 18009
+  },
+  {
+    "id": 52,
+    "nombre": "Chocolate",
+    "presio": 12253
+  },
+  {
+    "id": 53,
+    "nombre": "Avena",
+    "presio": 6954
+  },
+  {
+    "id": 54,
+    "nombre": "Cereal",
+    "presio": 9621
+  },
+  {
+    "id": 55,
+    "nombre": "Mantequilla",
+    "presio": 4721
+  },
+  {
+    "id": 56,
+    "nombre": "Margarina",
+    "presio": 18798
+  },
+  {
+    "id": 57,
+    "nombre": "Galletas",
+    "presio": 18085
+  },
+  {
+    "id": 58,
+    "nombre": "Té",
+    "presio": 6252
+  },
+  {
+    "id": 59,
+    "nombre": "Agua",
+    "presio": 17495
+  },
+  {
+    "id": 60,
+    "nombre": "Jugo",
+    "presio": 4280
+  },
+  {
+    "id": 61,
+    "nombre": "Refresco",
+    "presio": 14444
+  },
+  {
+    "id": 62,
+    "nombre": "Salsa de tomate",
+    "presio": 1647
+  },
+  {
+    "id": 63,
+    "nombre": "Mayonesa",
+    "presio": 10147
+  },
+  {
+    "id": 64,
+    "nombre": "Vinagre",
+    "presio": 18989
+  },
+  {
+    "id": 65,
+    "nombre": "Mostaza",
+    "presio": 6155
+  },
+  {
+    "id": 66,
+    "nombre": "Pasta",
+    "presio": 8269
+  },
+  {
+    "id": 67,
+    "nombre": "Fideos",
+    "presio": 1907
+  },
+  {
+    "id": 68,
+    "nombre": "Sopa instantánea",
+    "presio": 5189
+  },
+  {
+    "id": 69,
+    "nombre": "Lentejas preparadas",
+    "presio": 14025
+  },
+  {
+    "id": 70,
+    "nombre": "Atún en lata",
+    "presio": 5026
+  },
+  {
+    "id": 71,
+    "nombre": "Sardinas",
+    "presio": 18256
+  },
+  {
+    "id": 72,
+    "nombre": "Garbanzos cocidos",
+    "presio": 13588
+  },
+  {
+    "id": 73,
+    "nombre": "Chícharos en lata",
+    "presio": 16461
+  },
+  {
+    "id": 74,
+    "nombre": "Gelatina",
+    "presio": 10599
+  },
+  {
+    "id": 75,
+    "nombre": "Natilla",
+    "presio": 17884
+  },
+  {
+    "id": 76,
+    "nombre": "Flan",
+    "presio": 4337
+  },
+  {
+    "id": 77,
+    "nombre": "Helado",
+    "presio": 5601
+  },
+  {
+    "id": 78,
+    "nombre": "Tortillas",
+    "presio": 3363
+  },
+  {
+    "id": 79,
+    "nombre": "Croquetas",
+    "presio": 12072
+  },
+  {
+    "id": 80,
+    "nombre": "Empanadas",
+    "presio": 11770
+  },
+  {
+    "id": 81,
+    "nombre": "Arequipe",
+    "presio": 2021
+  },
+  {
+    "id": 82,
+    "nombre": "Miel",
+    "presio": 17700
+  },
+  {
+    "id": 83,
+    "nombre": "Panela",
+    "presio": 14283
+  },
+  {
+    "id": 84,
+    "nombre": "Bebida vegetal",
+    "presio": 2243
+  },
+  {
+    "id": 85,
+    "nombre": "Tofu",
+    "presio": 3239
+  },
+  {
+    "id": 86,
+    "nombre": "Hojuelas de maíz",
+    "presio": 7700
+  },
+  {
+    "id": 87,
+    "nombre": "Coco rallado",
+    "presio": 17736
+  },
+  {
+    "id": 88,
+    "nombre": "Ciruelas",
+    "presio": 7271
+  },
+  {
+    "id": 89,
+    "nombre": "Duraznos",
+    "presio": 16751
+  },
+  {
+    "id": 90,
+    "nombre": "Nueces",
+    "presio": 1573
+  },
+  {
+    "id": 91,
+    "nombre": "Almendras",
+    "presio": 9993
+  },
+  {
+    "id": 92,
+    "nombre": "Pasas",
+    "presio": 2563
+  },
+  {
+    "id": 93,
+    "nombre": "Frutas secas",
+    "presio": 9935
+  },
+  {
+    "id": 94,
+    "nombre": "Soya texturizada",
+    "presio": 6238
+  },
+  {
+    "id": 95,
+    "nombre": "Chocolatina",
+    "presio": 4624
+  },
+  {
+    "id": 96,
+    "nombre": "Barra de granola",
+    "presio": 10400
+  },
+  {
+    "id": 97,
+    "nombre": "Suero",
+    "presio": 12694
+  },
+  {
+    "id": 98,
+    "nombre": "Crema de leche",
+    "presio": 2236
+  },
+  {
+    "id": 99,
+    "nombre": "Cilantro",
+    "presio": 13262
+  },
+  {
+    "id": 100,
+    "nombre": "Perejil",
+    "presio": 4387
+  }
+]
